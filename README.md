@@ -34,8 +34,6 @@ You’ll find scope, reporting instructions, and other disclosure information th
 
 For other security concerns, [⁠Submit a TechSmith Support request →](https://support.techsmith.com/) and select Security as the ticket type.
 
-**Do not use GitHub Issues in this repository to report security vulnerabilities.**
-
 ## Disclaimer
 
 Information contained in this repository is provided on an as-is basis and may be updated as new information becomes available.
