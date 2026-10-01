@@ -6,23 +6,33 @@ The repository serves as a version-controlled location for security advisories, 
 
 ## Additional Security Information
 
-Compliance documentation, security policies, certifications, and related information are available through the TechSmith Trust Center:
+Compliance documentation, security policies, certifications, and related information.
 
-https://trust.techsmith.com/
+[TechSmith Trust Center →](https://trust.techsmith.com/)
 
 ## Published Advisories
 
-See the Advisories Index for published advisories and notices.
+Published security advisories and related information.
+
+[View security advisories →](advisories/)
+
+## Security Acknowledgments
+
+Our recognition of security researchers who have helped us make our products and services safer.
+
+[View acknowledged researchers →](acknowledgments/)
 
 ## Reporting Security Issues
 
-Software vulnerabilities should be reported through the TechSmith Vulnerability Disclosure Program:
-https://www.techsmith.com/trust-center/report-security-vulnerabilities/
+**Found a vulnerability?**
 
-For other security concerns, please submit a support request using the Security ticket type:
-https://support.techsmith.com/
+Software vulnerabilities should be reported through the [⁠TechSmith Vulnerability Disclosure Program →](https://www.techsmith.com/trust-center/report-security-vulnerabilities/)
 
-**Do not use GitHub Issues here to report security vulnerabilities.**
+You’ll find scope, reporting instructions, and other disclosure information there.
+
+**Something else security-related?**
+
+For other security concerns, [⁠Submit a TechSmith Support request →](https://support.techsmith.com/) and select Security as the ticket type.
 
 ## Disclaimer
 
