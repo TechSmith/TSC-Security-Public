@@ -80,6 +80,9 @@ Not every report ends up here. This isn’t a leaderboard, scorecard, or a list 
 
 ---
 
+**Oct-2026**</br>
+[@0xmicnnd](https://x.com/0xmicnnd) identified an API endpoint with insufficient authentication controls that could have affected data confidentiality and integrity.
+
 **Aug-2026**</br>
 [@0xmicnnd](https://x.com/0xmicnnd) reported an exposed machine-to-machine secret.
 
