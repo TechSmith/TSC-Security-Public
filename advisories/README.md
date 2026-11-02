@@ -16,15 +16,6 @@ Public statements regarding CVE assignments, dispute positions, clarifications, 
 
 Informational publications that may be security relevant but do not necessarily represent a vulnerability.
 
-## Published Advisories
-
-### 2020
-
-| Identifier | Publication | Date |
-|------------|-------------|------|
-| CVE-2020-18169 | Dispute Statement | 20-Sept-2021 |
-| CVE-2020-18171 | Dispute Statement | 20-Sept-2021 |
-
 ## Revision Policy
 
 Publications may be updated as additional information becomes available.
